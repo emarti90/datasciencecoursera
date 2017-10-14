@@ -45,4 +45,6 @@ tbodyAccjerkmean
 tbodyGyromean
 tbodyGyrojerkmean
 
-Additionally, activity, subject and label, indicates the activity index, the subject index and the activity description respectively.ity
+Additionally, activity, subject and label, indicates the activity index, the subject index and the activity description respectively.
+
+The signals are represented in the file 'study.txt'. Meanwhile, each activity signal mean can be found in 'activities.txt'.
